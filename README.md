@@ -7,7 +7,7 @@
 - 📫 How to reach me: <br>
   :heartpulse: Twitter: www.twitter.com/advocatemyles <br>
   :heartpulse: Observable: https://www.observablehq.com/@projecterostribe <br>
-  :heartpulse: Dev.to: https://www.dev.to: https://dev.to/projecterostribe <br>
+  :heartpulse: Dev.to: https://dev.to/projecterostribe <br>
   :heartpulse: E-mail: info@projecterostribe.com
 
 <!---

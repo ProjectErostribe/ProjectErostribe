@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on the following projects:
       - an app for nonverbal people with autism
 
-- 📫 How to reach me: 
-  :heartpulse: Twitter: www.twitter.com/advocatemyles
-  :heartpulse: Observable: https://www.observablehq.com/@projecterostribe
-  :heartpulse: Dev.to: https://www.dev.to: https://dev.to/projecterostribe
+- 📫 How to reach me: <br>
+  :heartpulse: Twitter: www.twitter.com/advocatemyles <br>
+  :heartpulse: Observable: https://www.observablehq.com/@projecterostribe <br>
+  :heartpulse: Dev.to: https://www.dev.to: https://dev.to/projecterostribe <br>
   :heartpulse: E-mail: info@projecterostribe.com
 
 <!---

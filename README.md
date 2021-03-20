@@ -7,11 +7,11 @@
 
 
 - 📫 How to reach me: <br>
-  :heartpulse: [Twitter:](www.twitter.com/advocatemyles) <br>
-  :heartpulse: [Observable:](https://www.observablehq.com/@projecterostribe) <br>
-  :heartpulse: [Dev.to:](https://dev.to/projecterostribe) <br>
-  :heartpulse: [Twitch:](https://www.twitch.tv/projecterostribe)<br>
-  :heartpulse: [E-mail:](info@projecterostribe.com)
+  :heartpulse: [Twitter](www.twitter.com/advocatemyles) <br>
+  :heartpulse: [Observable](https://www.observablehq.com/@projecterostribe) <br>
+  :heartpulse: [Dev.to](https://dev.to/projecterostribe) <br>
+  :heartpulse: [Twitch](https://www.twitch.tv/projecterostribe)<br>
+  :heartpulse: [E-mail](info@projecterostribe.com)
 
 <!---
 ProjectErostribe/ProjectErostribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

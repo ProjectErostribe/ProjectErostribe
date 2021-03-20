@@ -12,7 +12,7 @@
   :heartpulse: [Dev.to](https://dev.to/projecterostribe) <br>
   :heartpulse: [Twitch](https://www.twitch.tv/projecterostribe)<br>
   :heartpulse: [E-mail](info@projecterostribe.com) <br>
-  :heartpulse: [Website](https://www.projecterostribe.com)
+  :heartpulse: [Website](https://www.projecterostribe.com) (COMING SOON)
 
 <!---
 ProjectErostribe/ProjectErostribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

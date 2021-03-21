@@ -2,7 +2,7 @@
 - 👀 I’m interested in circus, fashion, and tech.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React and PHP in order to follow my dreams and get a job as a Web Developer.
 - 💞️ I’m looking to collaborate on the following projects:
-      - an app for nonverbal people with autism 
+      - an app for nonverbal people with autism <br>
       - a digital circus production by circus performers who can code. (circusandcode.org)
 
 

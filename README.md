@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ProjectErostribe (Paidamoyo-Janet Azehko) aka "MYLES." I am founder/Creative Director of Project Erostribe.
 - 👀 I’m interested in circus, fashion, and tech.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React and PHP in order to follow my dreams and get a job as a Web Developer.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React and PHP in order to follow my dreams and get a job in the tech industry.
 - 💞️ I’m looking to collaborate on the following projects:<br>
-      - an app for nonverbal people with autism <br>
-      - a digital circus production by circus performers who can code. (circusandcode.org)
+      - an app for nonverbal people with autism that helps us better interact with society during moments where we feel overwhelmed.<br>
+      - a digital circus production by circus performers who can code. (circusandcode.org).
 
 
 - 📫 How to reach me: <br>

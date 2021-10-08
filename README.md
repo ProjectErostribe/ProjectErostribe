@@ -12,7 +12,7 @@
   :heartpulse: [Dev.to](https://dev.to/projecterostribe) <br>
   :heartpulse: [Twitch](https://www.twitch.tv/projecterostribe)<br>
   :heartpulse: [E-mail](info@projecterostribe.com) <br>
-  :heartpulse: [Online Community] (https://circusandcode.disciplemedia.com)
+  :heartpulse: [Online Community](https://circusandcode.disciplemedia.com)
   :heartpulse: [Website](https://www.projecterostribe.com) (COMING SOON)
 
 

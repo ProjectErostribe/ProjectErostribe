@@ -3,7 +3,7 @@
 - 👀 I’m interested in circus, fashion, and tech.
 - 🌱 I’m currently a React Apprentice at Bitwise Industries.
 - 💞️ I’m looking to collaborate on the following projects:<br>
-     #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". To find out more check out the [Project Board] https://github.com/users/ProjectErostribe/projects/3
+     #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". To find out more check out the [Project Board] (https://github.com/users/ProjectErostribe/projects/3)
 
 
 - 📫 How to reach me: <br>

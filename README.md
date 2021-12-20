@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ProjectErostribe (Paidamoyo-Janet Azehko) aka "MYLES." I am founder/Creative Director of Project Erostribe.
+- <h1> Hi👋 👋 👋 , I’m (Paidamoyo-Janet Azehko) aka "My.L.E.S." </h1>
+- I am founder/Creative Director of Project Erostribe.
 - 👀 I’m interested in circus, fashion, and tech.
 - 🌱 I’m currently a React Apprentice at Bitwise Industries.
 - 💞️ I’m looking to collaborate on the following projects:<br>
-     #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". To find out more check out our community.
+     #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". To find out more check out the [Project Board] https://github.com/users/ProjectErostribe/projects/3
 
 
 - 📫 How to reach me: <br>

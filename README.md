@@ -2,18 +2,17 @@
 - 👀 I’m interested in circus, fashion, and tech.
 - 🌱 I’m currently a React Apprentice at Bitwise Industries.
 - 💞️ I’m looking to collaborate on the following projects:<br>
-      - a digital circus production by circus performers who can code. (https://circusandcode.disciplemedia.com).
+     #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". To find out more check out our community.
 
 
 - 📫 How to reach me: <br>
   :heartpulse: [Twitter](www.twitter.com/advocatemyles) <br>
-  :heartpulse: [Observable](https://www.observablehq.com/@projecterostribe) <br>
-  :heartpulse: [Dev.to](https://dev.to/projecterostribe) <br>
-  :heartpulse: [Twitch](https://www.twitch.tv/projecterostribe)<br>
-  :heartpulse: [E-mail](info@projecterostribe.com) <br>
   :heartpulse: [Online Community](https://circusandcode.disciplemedia.com) <br>
-  :heartpulse: [Website](https://www.projecterostribe.com) (COMING SOON)<br>
-  :heartpulse: [Circus and Code Community](https://circusandcode.disciplemedia.com)
+  :heartpulse: [E-mail](janet@projecterostribe.com) <br>
+  <!-- :heartpulse: [Website](https://www.projecterostribe.com)<br>
+  <!-- :heartpulse: [Observable](https://www.observablehq.com/@projecterostribe) <br>
+  <!-- :heartpulse: [Dev.to](https://dev.to/projecterostribe) <br> -->
+  
 
 
 <!---

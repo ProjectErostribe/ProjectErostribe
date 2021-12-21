@@ -1,8 +1,10 @@
  <h1>👋 💗 Hi, I’m (Paidamoyo-Janet Azehko) aka "My.L.E.S."👋 💗</h1>
  
- I am founder/Creative Director of Project Erostribe. I’m currently a React Apprentice at Bitwise Industries and I'm on a mission to create #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". To find out more check out the [Project Board](https://github.com/users/ProjectErostribe/projects/3). and the [Repo](https://github.com/ProjectErostribe/cnc-code-of-conduct/blob/main/README.md) to get started.
+ I am founder/Creative Director of Project Erostribe. I’m currently a React Apprentice at Bitwise Industries and I'm on a mission to create #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". 
+ <br>
+ To find out more check out the [Project Board](https://github.com/users/ProjectErostribe/projects/3) and the [Repo](https://github.com/ProjectErostribe/cnc-code-of-conduct/blob/main/README.md) to get started.
  
- Here are some of the things I've built during my React Apprenticeship at Bitwise Industries:<br> 
+Here are some of the things I've built during my React Apprenticeship at Bitwise Industries:<br> 
   :computer: [Bitwise React Apprenticeship Project Tracker](https://github.com/users/ProjectErostribe/projects/4)
 <br><br>
  Here is what I learned during my time as a Teacher's Assistant at Code Crew Memphis:<br>

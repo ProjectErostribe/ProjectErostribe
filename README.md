@@ -13,9 +13,7 @@ Here are some of the things I've built during my React Apprenticeship at Bitwise
   Here is what I learned during my time at Collab Lab (Cohort 6):<br>
     :computer: [Collab Lab](https://github.com/ProjectErostribe/tcl-6-smart-shopping-list)
 <br><br>
- /* Here is what I learned during Summer Hacker's Program:<br>
-   :computer: [Lambda School Curriculum Tracker](https://github.com/users/ProjectErostribe/projects/5)
- <br><br><br> */
+
   📫 How to reach me: <br>
   :heartpulse: [Twitter](www.twitter.com/advocatemyles) <br>
   :heartpulse: [Online Community](https://circusandcode.disciplemedia.com) <br>

@@ -6,7 +6,6 @@
  
 
   📫 How to reach me: <br>
-  :heartpulse: [Twitter](www.twitter.com/advocatemyles) <br>
   :heartpulse: [Online Community](https://circusandcode.disciplemedia.com) <br>
   :heartpulse: [E-mail](janet@projecterostribe.com) <br>
   

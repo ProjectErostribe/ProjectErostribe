@@ -2,16 +2,17 @@
  
  I am founder/Creative Director of Project Erostribe and I'm on a mission to create #CircusAndCode.  An open source, AI written circus production called "Moonshot Circus". 
  <br>
- To find out more check out the [Project Board](https://github.com/users/ProjectErostribe/projects/3) and the [Repo](https://github.com/ProjectErostribe/cnc-code-of-conduct/blob/main/README.md) to get started.
+ To find out more check out the [WEBSITE](https://www.circusandcode.com) AND [THE ONLINE COMMUNITY](https://circusandcode.disciplemedia.com)
  
 
-  📫 How to reach me: <br>
+  📫 HOW TO CONTACT ME: <br>
   :heartpulse: [Online Community](https://circusandcode.disciplemedia.com) <br>
-  :heartpulse: [E-mail](janet@projecterostribe.com) <br>
+  :heartpulse: [Twitter](www.twitter.com/CircusAndCode) <br>
   
-  <!-- :heartpulse: [Website](https://www.projecterostribe.com)<br>
-  <!-- :heartpulse: [Observable](https://www.observablehq.com/@projecterostribe) <br>
-  <!-- :heartpulse: [Dev.to](https://dev.to/projecterostribe) <br> -->
+  :performing_arts: HOW TO SUPPORT ME: :performing_arts:<br>
+  :heartpulse: [Website](https://www.PaidamoyoJanetAzehko.com.com)<br>
+  :heartpulse: [Twitch](https://www.twitch.com/circusandcode) <br>
+  :heartpulse: [Kickstarter]*** COMMING SOON!!! *** <br>
   
 
 
